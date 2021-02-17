@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET_API_MODELS_Almacenes", "NET_API_MODELS_Almacenes.csproj", "{655F95A4-321E-4717-9980-AB6668091124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{655F95A4-321E-4717-9980-AB6668091124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655F95A4-321E-4717-9980-AB6668091124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655F95A4-321E-4717-9980-AB6668091124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655F95A4-321E-4717-9980-AB6668091124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90823EC1-AB60-4514-A0B2-82EE017AA9E6}
+	EndGlobalSection
+EndGlobal
